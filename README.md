@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santhosh
-- 👀 I’m interested in website developement,
-- 🌱 I’m currently learning web development,
+- 👀 I’m interested in Full-Stack developer,
+- 🌱 I’m currently learning MERN Stack Technologies,
 - 💞️ I’m looking to collaborate on new technology,
 - 📫 How to reach me santhosharumugama10@gmail.com.
