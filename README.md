@@ -24,12 +24,10 @@ I'm enthusiastic about collaborating on projects that leverage cutting-edge tech
 - Backend: Node.js, Express.js, MongoDB, RESTful APIs,
 - Database: MongoDB, MySQL
 - Version Control: Git, GitHub
-- Deployment: Heroku, Netlify
-- Other Tools: VS Code, npm, Yarn
+- Deployment: Heroku, Netlify,Render
+- Other Tools: VS Code, npm
 
 ## Looking Forward
 I'm excited about the future and the possibilities that lie ahead in the world of software development. As I continue my journey, I look forward to collaborating with talented individuals, building innovative solutions, and making a positive impact in the tech community and beyond.
 
 Let's code, collaborate, and create something extraordinary together!
-
-
